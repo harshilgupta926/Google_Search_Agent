@@ -1,4 +1,3 @@
-```Markdown
 # AI Google Search Agent 🔎🤖
 
 An AI-powered Google Search Agent built using **Python, Streamlit, and Gemini API** that helps users search the web, understand information, and get AI-generated responses based on search queries.
@@ -20,9 +19,7 @@ This project combines web search capabilities with Google's Gemini AI model to c
 - **Python** - Core programming language
 - **Streamlit** - Web application framework
 - **Google Gemini API** - AI model integration
-- **Google Search API / Search Tools** - Web search functionality
-- **Requests** - API communication
-- **dotenv** - Environment variable management
+- **Google Search Grounding** - Real-time web search capability
 
 ## 📁 Project Structure
 
@@ -33,13 +30,7 @@ AI-Google-Search-Agent/
 ├── google_agent.py         # Main Streamlit application
 ├── requirements.txt        # Required dependencies
 ├── README.md               # Project documentation
-│
-├── .env                    # API key configuration
-│
-└── utils/
-└── search.py           # Search functions (optional)
 
-````
 
 ## ⚙️ Installation
 
